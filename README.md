@@ -1,5 +1,5 @@
 ## Mini Cluster .Net 5 sample-app 
-![Alt text](diagram.jpg?raw=true "Mini Cluster")
+![Alt text](https://raw.githubusercontent.com/ertugrul88/sample-app/aa7147d64eca7de9a51dd35bddb00f925e3d3d74/diagram.jpeg?token=GHSAT0AAAAAABSF2U3FBHM63W563GJWBRREYRDFUUQ?raw=true "Mini Cluster")
 
 ## 1- Git clon repository
 
