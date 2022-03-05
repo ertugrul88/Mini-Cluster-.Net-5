@@ -1,14 +1,14 @@
 ## Mini Cluster .Net 5 sample-app 
 ![Alt text](https://github.com/ertugrul88/sample-app/raw/master/diagram.jpeg?raw=true "Mini Cluster")
 
-## 1- Git clon repository
-
+## 1- Git clone repository
+```
 ertugrul@ubuntu1:~/case$ git clone https://github.com/roofstacks/case-study-pool.git
-
+```
 ## 2- Create DockerFile
-
+```
 ertugrul@ubuntu1:~/case/sample-app$ vim DockerFile
-
+```
 ## 3- Edit and Save DockerFile
 
 FROM mcr.microsoft.com/dotnet/aspnet:5.0 AS base
