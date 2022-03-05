@@ -40,7 +40,7 @@ ertugrul@ubuntu1:~/case/sample-app$ docker build -t ertugrul88/sampleapp -f Dock
 ertugrul@ubuntu1:~/case/sample-app$ docker run -p 5000:80 ertugrul88/sampleapp 
 Go to local link your browser >> http://localhost:5000/WeatherForecast
 ```
-## 6- Autanticaiton hub.docker.com and push image
+## 6- Authentication hub.docker.com and push image
 ```
 ertugrul@ubuntu1:~/case/sample-app$ docker push ertugrul88/sampleapp:latest
 ```
