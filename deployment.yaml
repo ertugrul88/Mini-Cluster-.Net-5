@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sample-deployment
+  labels:
+    app: sample-deployment
+    tier: cloud
+spec:
+ replicas: 2
+ template:
+  metadata:
+   name: sample-app-pod
+   labels:
+    app: sample-app
+  spec:
+   containers:
+    - name: sample-app
+      image: ertugrul88/sampleapp:latest
+      imagePullPolicy: Never
+      ports:
+       - containerPort: 3000
+      resources:
+       limits:
+        cpu: "1"
+        memory: 512Mi
+       requests:
+        cpu: "0.2"
+        memory: 256Mi
+ selector:
+  matchLabels:
+   app: sample-app
