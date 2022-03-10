@@ -3,7 +3,7 @@
 
 ## 1- Git clone repository
 ```
-ertugrul@ubuntu1:~/case$ git clone https://github.com/roofstacks/case-study-pool.git
+ertugrul@ubuntu1:~/case$ git clone your-git-url
 ```
 ## 2- Create DockerFile
 ```
