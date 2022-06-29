@@ -161,7 +161,7 @@ spec:
 ```
 your-node-ip  weatherforecast-sample-app.com
 ```
-## 16- Finish
+## 16- Finish asasd
 ```
 Go to local link your browser >> http://weatherforecast-sample-app.com/WeatherForecast
 ```
