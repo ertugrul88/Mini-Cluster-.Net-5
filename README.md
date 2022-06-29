@@ -1,4 +1,4 @@
-## Mini Cluster .Net 5 sample-app 
+﻿## Mini Cluster .Net 5 sample-app 
 ![Alt text](https://github.com/ertugrul88/sample-app/raw/master/diagram.jpeg?raw=true "Mini Cluster")
 
 ## 1- Git clone repository
@@ -161,7 +161,7 @@ spec:
 ```
 your-node-ip  weatherforecast-sample-app.com
 ```
-## 16- Finish asasd
+## 16- Finish tetds sdıjfsdıf 
 ```
 Go to local link your browser >> http://weatherforecast-sample-app.com/WeatherForecast
 ```
