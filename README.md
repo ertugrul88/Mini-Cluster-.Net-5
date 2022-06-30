@@ -161,7 +161,7 @@ spec:
 ```
 your-node-ip  weatherforecast-sample-app.com
 ```
-## 16- Finish tetds sdıjfsdıf zxzzxcxzc
+## 16- Finish tetds sdıjfsdıf [zxzzxcxzc](https://git.jetbrains.space/deneme01/test-01/Mini-Cluster-.Net-5.git)
 ```
 Go to local link your browser >> http://weatherforecast-sample-app.com/WeatherForecast
 ```
